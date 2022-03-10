@@ -263,7 +263,7 @@ const vcardowner = `BEGIN:VCARD\nVERSION:3.0\nN:${NamaBot}\nFN:${ownername}\nite
  
 //===============================================================================//
 
-const zeksApi = ["apivinz","1b0xJAqegS9UW2CgjcErnkAqIQT","AwIRGm29MIDTaieafAwBs5zRcpX","FPOQ12gopfq1ktpGP6ppsu3H3Sx"]
+const zeksApi = ["apivinz","dPUCWN80mv98u8zUW5cEcAqV0Dv","AwIRGm29MIDTaieafAwBs5zRcpX","FPOQ12gopfq1ktpGP6ppsu3H3Sx"]
 
 //===============================================================================// 
 
